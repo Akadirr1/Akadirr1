@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Ivenc</h1>
 <h3 align="center">Full-Stack Developer | Node.js, Robotics, and Self-Hosting Enthusiast</h3>
 
-- 🔭 I’m currently working on [KOU send App](https://github.com/KOU-Software-Community/app_seng)
+- 🔭 I’m currently working on [KOU seng App](https://github.com/KOU-Software-Community/app_seng)
 
 - 🌱 I’m currently learning **nodeJS , Django**
 
