@@ -28,6 +28,7 @@ Building software that moves from the screen to real hardware.
 - 📱 Building and publishing mobile applications with **Expo / React Native**
 - 🌐 Experienced in developing and deploying full-stack web applications
 - 👥 Web & Mobile Technical Team Captain at **KOU Software Community**
+- 💻 Started my programming journey with **C through the 42 Piscine**, later expanding into backend, mobile and autonomous systems
 - ⚙️ Interested in robotics, backend systems, Linux, self-hosting and developer tooling
 
 ---
@@ -54,7 +55,7 @@ Current work includes:
 
 I also build production-oriented mobile and web applications, from backend architecture to deployment and App Store / Play Store delivery.
 
-`TypeScript` · `React` · `React Native` · `Expo` · `Next.js` · `Node.js` · `Express` · `Supabase` · `MongoDB`
+`TypeScript` · `React` · `React Native` · `Expo` · `Next.js` · `Node.js` · `Express` · `Supabase` · `Firebase` · `MongoDB`
 
 ---
 
@@ -66,21 +67,17 @@ Real-time telemetry and diagnostics for multiple VESC motor controllers through 
 
 `Python` · `FastAPI` · `WebSocket` · `CAN Bus` · `ArduPilot` · `VESC`
 
-#### [follow-ai](https://github.com/Akadirr1/follow-ai)
+#### [KOU Software Community Mobile App](https://github.com/KOU-Software-Community/app_seng)
 
-Mobile AI/news application with a production-oriented Expo architecture, persistent client state, Supabase backend and automated testing/release checks.
+The official mobile application of KOU Software Community, built as a real iOS and Android product with event management, registrations, notifications and an integrated AI news platform.
 
-`Expo` · `React Native` · `TypeScript` · `Supabase` · `Jest`
+`Expo` · `React Native` · `TypeScript` · `Firebase` · `Supabase` · `Push Notifications` · `Jest`
 
 #### [agentic-kit](https://github.com/Akadirr1/agentic-kit)
 
 Developer tooling and orchestration experiments for AI-assisted software engineering workflows.
 
 `Python` · `Shell` · `Claude Code` · `Developer Tooling`
-
-#### [42 Disco Piscine](https://github.com/Akadirr1/42_Disco_Piscine)
-
-Part of my early programming journey. I started programming with **C** through the 42-style Piscine environment before moving into backend, mobile and autonomous systems.
 
 ---
 
@@ -115,6 +112,7 @@ Part of my early programming journey. I started programming with **C** through t
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
